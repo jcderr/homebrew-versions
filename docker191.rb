@@ -3,7 +3,7 @@ class Docker171 < Formula
   homepage "https://www.docker.com/"
   url "https://github.com/docker/docker.git",
       :tag => "v1.9.1,
-      :revision => ""34a1d598c6096ed8b5ce5219e77d68e5cd85462
+      :revision => "34a1d598c6096ed8b5ce5219e77d68e5cd85462"
 
   bottle do
     cellar :any
